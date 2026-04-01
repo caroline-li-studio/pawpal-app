@@ -31,7 +31,7 @@
         }
     },
     "mp-weixin" : {
-        "appid" : "",
+        "appid" : "wx615efda44ebd46db",
         "setting" : {
             "urlCheck" : false
         },
